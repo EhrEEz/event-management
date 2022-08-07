@@ -1,0 +1,7 @@
+/media
+/node_modules
+/scss
+*.sql
+*.zip
+package-lock.json
+package.json
